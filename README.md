@@ -1,3 +1,6 @@
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/duartecordeiro/nanodegree_dataanalyst_p0)
+
+
 This folder contains files for P0: Analyze Bay Area Bike Share Data.
 
 Bay\_Area\_Bike\_Share\_Analysis.ipynb - Main project file.
